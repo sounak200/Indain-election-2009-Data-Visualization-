@@ -44,7 +44,7 @@ The elector dataset consist of 8 features namely 'STATE CODE', 'STATE', 'PC NO',
 
 - ****As can be seen that the number of female candidates in the elections are significantly less.****
 - **Most of the candidates are of the in the age bracket of 40 - 50 but the age bracket of winner candidates is between 50-70.**
-- ****The vote share of Indian National Congress(INC) is highest followed by the Bhartiya Janta Party(BJP). The interesting observation here is the Bahujan Samaj Party(BSP) despite being a regional party has the third highest number of vote share.[¶])**
+- **The vote share of Indian National Congress(INC) is highest followed by the Bhartiya Janta Party(BJP). The interesting observation here is the Bahujan Samaj Party(BSP) despite being a regional party has the third highest number of vote share.[¶])**
 - ****Four out of the top five states with respect to polling percentages are a part of the north-east India which is considered to be amongst the least developed parts of India.****
 - ****As mentioned earlier regional parties have major influences, the highest number of seats won in UP are by Samajwadi Party(SP). Also Bahujan Samaj Party(BSP) is trailing behind INC only by a few seats.****
 - ****Maharashtra is dynamic state with various parties winning seats in the election with UPA getting the highest seats followed by NDA.****
